@@ -5,4 +5,4 @@ setup(name='brpylib',
       description='accessing blackrock data in python',
       author='Mitch Frankel',
       packages=find_packages(),
-      install_requires=['numpy'])
+      install_requires=['numpy', 'qtpy'])
